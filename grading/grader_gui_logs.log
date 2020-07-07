@@ -1,0 +1,34 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): staging.musiccritic.upf.edu:80
+DEBUG:urllib3.connectionpool:http://staging.musiccritic.upf.edu:80 "GET /research/contexts/12/full HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): staging.musiccritic.upf.edu:443
+DEBUG:urllib3.connectionpool:https://staging.musiccritic.upf.edu:443 "GET /research/contexts/12/full HTTP/1.1" 200 None
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 4
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 4 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 57 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 78 57
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 147 8192
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-i', './backing_tracks/556_4_FE_back.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
+INFO:root:File already exists 
